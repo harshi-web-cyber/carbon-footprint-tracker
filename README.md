@@ -81,11 +81,6 @@ The app sets a target of **500 kg CO₂/year** - a sustainable lifestyle goal.
 
 Trees needed to offset = Total emissions ÷ 20 (1 tree absorbs ~20 kg CO₂/year)
 
-## 📦 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/carbon-footprint-tracker.git
 
-# Open the file
-open index.html
+
