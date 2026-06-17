@@ -33,7 +33,7 @@ A comprehensive, single-file web application that helps individuals understand, 
 
 ## 🚀 Live Demo
 
-[Your deployed link will go here]
+https://harshi-web-cyber.github.io/carbon-footprint-tracker/)](https://harshi-web-cyber.github.io/carbon-footprint-tracker/
 
 ## 🛠️ Tech Stack
 
