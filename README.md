@@ -32,8 +32,8 @@ A comprehensive, single-file web application that helps individuals understand, 
 - 8+ additional climate champions
 
 ## 🚀 Live Demo
+https://harshi-web-cyber.github.io/carbon-footprint-tracker/
 
-https://harshi-web-cyber.github.io/carbon-footprint-tracker/)](https://harshi-web-cyber.github.io/carbon-footprint-tracker/
 
 ## 🛠️ Tech Stack
 
