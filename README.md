@@ -45,16 +45,21 @@ A comprehensive, single-file web application that helps individuals understand, 
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1362" height="802" alt="dashboard" src="https://github.com/user-attachments/assets/89132744-c5e9-43a8-a5f4-3fa1adc5e4f5" />
+
 
 ### Activity Logging
-![Activities](screenshots/activities.png)
+<img width="1247" height="912" alt="activity log" src="https://github.com/user-attachments/assets/345dd96d-8128-4744-a117-b9be394ed9f6" />
+
 
 ### Education Module
-![Education](screenshots/education.png)
+<img width="1367" height="916" alt="learn_tab" src="https://github.com/user-attachments/assets/bc523cb0-ba14-4f5e-93d8-cb4b52263342" />
+
 
 ### Climate Heroes
-![Heroes](screenshots/heroes.png)
+<img width="1281" height="900" alt="heroes" src="https://github.com/user-attachments/assets/e0ed3e2d-3ad0-40a3-8ae2-ed7947df4883" />
+
+
 
 ## 🏆 Hackathon Submission
 
